@@ -9,7 +9,9 @@ As a media worker, I want to know exactly what topics people in this world are c
 As an advertiser, I want to be prepared to know how users feel about the experience in order to achieve better results.
 
 
+
 you need to change the 'BEARER_TOKEN' to your own bear token
+
 
 
 MVP
