@@ -17,3 +17,4 @@ This API program can connect to my own twitter account
 It is able to get access to the tweets and we can search for Tweets from the last seven days.
 
 ![image](https://user-images.githubusercontent.com/113296414/196047027-05cc696c-9b47-406c-8f3e-9147f120423e.png)
+![image](https://user-images.githubusercontent.com/113296414/196047323-80d9129d-7fb4-4ec8-a06f-ee3893cc70fa.png)
